@@ -23,3 +23,15 @@ h1 {
     font-size: 500%;
     font-family: 'Roboto Mono', monospace;
 }
+
+a {
+    background: rgba(0, 0, 0, 0.25);
+}
+
+a:link, a:visited,  a:hover, a:active {
+    color: #74b9ff;
+}
+
+a:hover {
+    text-decoration: none;
+}
